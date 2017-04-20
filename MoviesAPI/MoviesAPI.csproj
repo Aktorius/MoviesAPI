@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Extensions\" />
-    <Folder Include="Controllers\" />
+    <Folder Include="Utils\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Responses\" />
     <Folder Include="wwwroot\" />
